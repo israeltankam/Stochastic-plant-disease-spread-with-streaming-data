@@ -1,0 +1,2 @@
+# Stochastic-plant-disease-spread-with-streaming-data
+This notebook implements a **continuous model updating framework** for plant fungal disease spread dynamics using **Maximum Likelihood Estimation (MLE)** on streaming data. The model captures both deterministic and stochastic behaviours of (primary and secondary) infections, leveraging the Gillespie algorithm to simulate demographic variability.  
